@@ -1,9 +1,5 @@
 ===========================================================
 PROJECT: Student Management System (CS214)
-AUTHOR: Majed Traheeb Alruqi
-UNIVERSITY ID: 441109831
-SECTION: 6013
-SUPERVISOR: Dr. Osamah Alzakan
 ===========================================================
 
 1. DESCRIPTION
